@@ -1,4 +1,4 @@
 hello gays 
 hallo guys
 
-<h1> This is for decoration </h1>
+<h1> this is footer </h1>
